@@ -33,3 +33,18 @@ petstore-api-tests/
 ├── README.md                   # Arquivo de descrição do projeto
 ├── DOCUMENTO_DE_TESTES.md      # Relatório dos testes realizados
 └── pom.xml                     # Arquivo de configuração do Maven
+
+---
+
+## 🚀 Como Rodar os Testes
+
+### Requisitos:
+
+- Java 11 ou superior
+- Maven 3.9.6 ou superior
+
+### Passo a Passo:
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/KaykyLeonardO/petstore-api-tests.git
